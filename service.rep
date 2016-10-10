@@ -1,0 +1,5 @@
+
+class Service {
+    SLOT(void reset());
+    SIGNAL(elapsed(int timer,int elapsed));
+}
